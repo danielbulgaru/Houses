@@ -7,7 +7,7 @@ function Tile(props) {
     return (
       <div className="tile">
         <h1>
-          {props.area} {props.price} {props.type}
+         {props.name} {props.area} {props.price} {props.type}
         </h1>
         <img alt="" src={props.image} />
         <Appointment id={props.id}/>
