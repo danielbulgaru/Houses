@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Houses/static/css/main.eb4f70e3.chunk.css",
+    "main.js": "/Houses/static/js/main.0e826243.chunk.js",
+    "main.js.map": "/Houses/static/js/main.0e826243.chunk.js.map",
+    "runtime-main.js": "/Houses/static/js/runtime-main.136a37a7.js",
+    "runtime-main.js.map": "/Houses/static/js/runtime-main.136a37a7.js.map",
+    "static/css/2.0cfad52a.chunk.css": "/Houses/static/css/2.0cfad52a.chunk.css",
+    "static/js/2.e0db60e5.chunk.js": "/Houses/static/js/2.e0db60e5.chunk.js",
+    "static/js/2.e0db60e5.chunk.js.map": "/Houses/static/js/2.e0db60e5.chunk.js.map",
+    "static/js/3.872c1fdb.chunk.js": "/Houses/static/js/3.872c1fdb.chunk.js",
+    "static/js/3.872c1fdb.chunk.js.map": "/Houses/static/js/3.872c1fdb.chunk.js.map",
+    "index.html": "/Houses/index.html",
+    "static/css/2.0cfad52a.chunk.css.map": "/Houses/static/css/2.0cfad52a.chunk.css.map",
+    "static/css/main.eb4f70e3.chunk.css.map": "/Houses/static/css/main.eb4f70e3.chunk.css.map",
+    "static/js/2.e0db60e5.chunk.js.LICENSE.txt": "/Houses/static/js/2.e0db60e5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Houses/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.136a37a7.js",
+    "static/css/2.0cfad52a.chunk.css",
+    "static/js/2.e0db60e5.chunk.js",
+    "static/css/main.eb4f70e3.chunk.css",
+    "static/js/main.0e826243.chunk.js"
+  ]
+}
